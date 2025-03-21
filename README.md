@@ -26,10 +26,9 @@ Atuo na área de **CRM e Marketing Digital**, ajudando empresas a **otimizar a r
 
 ```json
 {
-  "CRM & Automação": ["RD Station", "Salesforce", "Oracle Responsys", "HubSpot"],
+  "CRM & Automação": ["RD Station", "Salesforce", "HubSpot"],
   "Análise de Dados": ["Google Analytics", "Power BI", "Looker Studio"],
-  "Dev & Marketing Tech": ["HTML", "CSS", "SQL básico"],
-  "Gestão de Tráfego": ["Google Ads", "Meta Ads"]
+  "Dev & Marketing Tech": ["HTML", "CSS","JavaScript", "Python", "SQL"]
 }
 ```
 
