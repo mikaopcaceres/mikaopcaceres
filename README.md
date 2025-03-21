@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Mike!
+## 👋 Olá, eu sou o Mike!
 
 ```yaml
 função: Analista de CRM & Marketing Digital
