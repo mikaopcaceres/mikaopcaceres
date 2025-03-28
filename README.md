@@ -1,3 +1,4 @@
+
 ## 👋 Olá, eu sou o Mike!
 
 ```yaml
@@ -9,6 +10,8 @@ especialidades:
   - CRM & Engajamento de Clientes
   - Personalização de Campanhas
 ```
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaopcaceres&show_icons=true&theme=dark)
 
 ---
 
